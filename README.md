@@ -2,9 +2,6 @@
 <h3 align="center">💻 Software Developer | 🌱 Passionate Learner | 🚀 Exploring DSA in Java</h3>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Coder Banner" width="600"/>
-</p>
 
 
 ### 🌱 Currently Learning:
@@ -16,17 +13,10 @@
 ---
 
 ### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/vanshika-a63a9128b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.hackerrank.com/vanshika3918" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" />
-  </a>
-  <a href="https://www.leetcode.com/vanshika0994" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcode" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshika-a63a9128b)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vanshika3918)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://www.leetcode.com/vanshika0994)
+
 
 ---
 
